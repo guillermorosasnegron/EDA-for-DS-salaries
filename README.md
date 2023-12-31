@@ -1,1 +1,1 @@
-# Kaggle
+# EDA for DS salaries
